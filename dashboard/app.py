@@ -73,7 +73,7 @@ st.markdown("""
 st.markdown("""
     <div class="student-header">
         <h2>AI-Based Anomaly Detection System for Cloud Resource Monitoring</h2>
-        <p>Aiman Nadira Naiyer &nbsp;|&nbsp; MCA Cloud Computing &nbsp;|&nbsp; Chandigarh University &nbsp;|&nbsp; Final Year Project 2024-25</p>
+        <p>Aiman Nadira Naiyer &nbsp;|&nbsp; MCA Cloud Computing &nbsp;|&nbsp; Chandigarh University &nbsp;|&nbsp; Final Year Project 2024-26</p>
     </div>
 """, unsafe_allow_html=True)
 
